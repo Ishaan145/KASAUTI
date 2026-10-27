@@ -1,0 +1,36 @@
+# Environment / secrets
+.env
+.env.*
+*.key
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Data and model artifacts
+*.xls
+*.xlsx
+*.csv
+*.parquet
+*.wav
+*.mp3
+*.mp4
+data/raw/
+data/cache/
+*.pt
+*.bin
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
