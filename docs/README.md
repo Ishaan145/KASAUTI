@@ -1,4 +1,4 @@
-# KASAUTI — research and positioning docs
+# KASAUTI: research and positioning docs
 
 Background research for KASAUTI, an entry to the Meta Global AI Developer
 Hackathon (Indie Developer track, solo). Submission due 4 Nov 2026, 9:00 PM ET.
